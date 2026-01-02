@@ -1,0 +1,24 @@
+.write{
+    color: blue;
+}
+#div{
+    background-color: rgb(128, 197, 236);
+    height: 300px;
+    color: rgb(117, 103, 78);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+    background-size: contain;
+    box-shadow: 20px 30px 20px rgb(118, 131, 165);
+}
+.border{
+    border: 5px solid rgb(134, 63, 63);
+    padding: 10px;
+    border-radius: 15px;
+    text-wrap: initial;
+    margin: 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    display: inline-flex;
+    box-shadow: 10px 10px 20px rgb(180, 105, 105);
+}
